@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-👩‍💼Currently working on learning more about Python, GitHub, and AWS
-🏋️‍♀️I enjoy working out and 🏊‍♀️
-✴️Hoping to get better at using GitHub and GitHub Actions
+- 👩‍💼 Currently working on learning more about Python, GitHub, and AWS
+- 🏋️‍♀️ I enjoy working out and 🏊‍♀️
+- ✴  Hoping to get better at using GitHub and GitHub Actions
 
 👋Let me know if there's anything you think I should start out learning!
